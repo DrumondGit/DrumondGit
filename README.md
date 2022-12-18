@@ -6,7 +6,7 @@
 
 ### What's up 👋
 <p>
-  My name's Arthur Sita Gomes, I'm a self-taught full-stack web developer majoring in software engineering @PucMinas, I'm always eager to learn and better develop my skills.
+  My name's Guilherme Drumond, I'm a self-taught full-stack web developer majoring in software engineering @PucMinas, I'm always eager to learn and better develop my skills.
 </br>
   I've made projects using: Typescript, NextJs, ReactJs, Postgresql, ExpresJs and more. Come check my repository ☺
 </p>
