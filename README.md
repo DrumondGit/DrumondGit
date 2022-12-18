@@ -23,16 +23,16 @@
 <div align=center>
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrumondGitHub&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrumondGit&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=DrumondGitHub&show_icons=true&theme=dracula&line_height=27" alt="**DrumondGitHub** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=DrumondGit&show_icons=true&theme=dracula&line_height=27" alt="**DrumondGit** github stats"/>
 </a>
 	
 <p></p>
 
-![](https://streak-stats.demolab.com/?user=DrumondGitHub&theme=dracula)
+![](https://streak-stats.demolab.com/?user=DrumondGit&theme=dracula)
 	
 </div>
 
