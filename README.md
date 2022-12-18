@@ -2,9 +2,6 @@
 	<a href="https://github.com/SitaGomes/SitaGomes/blob/main/README_PORTUGUES.md">
 		<img width="30" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/br.svg"/>
 	</a>
-	<a href="https://github.com/SitaGomes/SitaGomes/blob/main/README_FRANCAIS.md">
-		<img width="30" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/fr.svg"/>
-	</a>
 </div>
 
 ### What's up 👋
@@ -26,16 +23,16 @@
 <div align=center>
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SitaGomes&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrumondGitHub&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SitaGomes&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=DrumondGitHub&show_icons=true&theme=dracula&line_height=27" alt="**DrumondGitHub** github stats"/>
 </a>
 	
 <p></p>
 
-![](https://streak-stats.demolab.com/?user=sitagomes&theme=dracula)
+![](https://streak-stats.demolab.com/?user=DrumondGitHub&theme=dracula)
 	
 </div>
 
@@ -54,8 +51,8 @@
 
 <div align="center">
 	
-### Nº of times people visited my profile since 08/21
+### Nº of times people visited my profile since 12/22
 
-<img alingn="center" src="https://profile-counter.glitch.me/SitaGomes/count.svg" />
+<img alingn="center" src="https://profile-counter.glitch.me/DrumondGitHub/count.svg" />
 </div>
  
