@@ -1,5 +1,5 @@
 <div align=right>
-	<a href="https://github.com/SitaGomes/SitaGomes/blob/main/README_PORTUGUES.md">
+	<a href="https://github.com/DrumondGit/DrumondGit/blob/main/README_PORTUGUES.md">
 		<img width="30" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/br.svg"/>
 	</a>
 </div>
@@ -8,15 +8,15 @@
 <p>
   My name's Guilherme Drumond, I'm a self-taught full-stack web developer majoring in software engineering @PucMinas, I'm always eager to learn and better develop my skills.
 </br>
-  I've made projects using: Typescript, NextJs, ReactJs, Postgresql, ExpresJs and more. Come check my repository ☺
+  I've made projects using: Java, JavaScript, Postgresql, ExpresJs, MySQL and more. Come check my repository ☺
 </p>
 	
 <p align="left">
 - 🔭 Currently just having fun creating projects that I'm passionate about.
 	<br/>
-- 👨‍🎤🛹 I love rock, skating and watching anime.
+- 👨‍🎤🛹 I love adventures, meet new people and watching anime.
 	<br/>
-- ⚡ Fun fact: I speak English, Portuguese, French, a bit of Japonese and spanish.
+- ⚡ Fun fact: I speak English, Portuguese, a bit of German and Spanish.
 </p>
 
 ## Github Stats
@@ -39,11 +39,8 @@
 ## Socials
 	
 <div align=left style={{display: "flex"}}>
-	  <a href="https://twitter.com/Sita_Gomes">
-	    <img alt="Arthur's twitter" src="https://img.shields.io/badge/-twitter-blue?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/SitaGomes">
-	  </a>
-	  <a href="https://www.linkedin.com/in/sitagomes/">
-	    <img alt="Gentil Pinto GitHub followers" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sitagomes/">
+	  <a href="https://www.linkedin.com/in/drumonddev/">
+	    <img alt="Gentil Pinto GitHub followers" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drumonddev/">
 	  </a>
 </div>
 
